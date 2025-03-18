@@ -29,5 +29,3 @@ This application showcases the power of real-time web technologies and their pot
 ## Screenshots
 <img src="Screenshot 2025-03-05 124848.png" width="700">
 🚀 Ready to explore more possibilities with real-time applications!
-
-#WebDevelopment #NodeJS #SocketIO #RealTimeChat #Programming #JavaScript #FullStackDevelopment
